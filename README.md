@@ -16,7 +16,7 @@ Each dataset contains nine column:
 * user_id (user ID)
 * user_session (temporary user's session ID)
 
-Our records could miss the value of brand and category_code.
+Our records could miss the values of brand and category_code.
    
    
    
