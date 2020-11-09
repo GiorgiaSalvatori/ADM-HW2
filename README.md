@@ -1,7 +1,7 @@
 # Homework 2 - eCommerce analytics
 In this homework our task is to comprehend the behaviour of the eCommerce in October and November through a series of questions.
 ## Data
-The data we are going to work with are from the website Kaggle, in particular we download the dataset of October and November.\n
+The data we are going to work with are from the website Kaggle, in particular we download the dataset of October and November.
 Each dataset contains nine column:
 * event_time (time when event happened at (in UTC))
 * event_type
