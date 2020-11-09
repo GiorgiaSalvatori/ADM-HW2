@@ -17,6 +17,12 @@ Each dataset contains nine column:
 * user_session (temporary user's session ID)
 
 Our records could miss the values of brand and category_code.
+
+## Dataset
+According to the questions we use October dataset, November dataset or the combination of these two obtaines as their concatenation.
+
+##Script description
+...
    
    
    
