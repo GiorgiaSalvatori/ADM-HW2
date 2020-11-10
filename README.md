@@ -21,8 +21,9 @@ Our records could miss the values of brand and category_code.
 ## Dataset
 According to the questions we use October dataset, November dataset or the combination of these two obtaines as their concatenation.
 
-##Script description
+## Script description
 In the main.ipynb there are the solutions of the questions provided of comments, plots and tables.
+In our file all the plots are visible, for any problem this is the link https://nbviewer.jupyter.org/github/GiorgiaSalvatori/ADM-HW2/blob/main/main.ipynb created as your suggestion.
 
    
    
