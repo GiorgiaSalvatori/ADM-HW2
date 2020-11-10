@@ -22,7 +22,7 @@ Our records could miss the values of brand and category_code.
 According to the questions we use October dataset, November dataset or the combination of these two obtaines as their concatenation.
 
 ##Script description
-...
-   
+In the main.ipynb there are the solutions of the questions provided of comments, plots and tables.
+
    
    
